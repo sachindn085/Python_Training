@@ -13,6 +13,4 @@ string = "hello word"
 
 # Call the function to reverse the words and store the result
 result = reverse_words(string)
-
-# Print the result
 print(result)  
